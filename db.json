@@ -1,0 +1,58 @@
+{
+  "tasks": [
+    {
+      "title": "first task",
+      "description": "comment",
+      "status": false,
+      "userId": "tgGj9U9",
+      "id": 1
+    },
+    {
+      "title": "first task",
+      "description": "123",
+      "status": false,
+      "userId": "1",
+      "id": 2
+    },
+    {
+      "title": "second task",
+      "description": "qwe",
+      "status": false,
+      "userId": "1",
+      "id": 3
+    },
+    {
+      "title": "third task",
+      "description": "111",
+      "status": false,
+      "userId": "1",
+      "id": 4
+    },
+    {
+      "title": "task",
+      "description": "qweqwe",
+      "status": false,
+      "userId": "1",
+      "id": 5
+    },
+    {
+      "title": "new",
+      "description": "4567",
+      "status": true,
+      "userId": "1",
+      "id": 6
+    }
+  ],
+  "users": [
+    {
+      "email": "test@mail.ru",
+      "password": "$2a$10$TLNfzfGDCLb.W6EcAua/ZeobGUjCyx8ba.GCKj3cB0knw1L7WttxO",
+      "id": "1"
+    },
+    {
+      "email": "qweqwe@mail.ru",
+      "password": "$2a$10$zJ1kIy4ati07HkgvoAUILeDyvLrDobMnlKgnyXGKr.Zd42QozrOTq",
+      "id": "tgGj9U9"
+    }
+  ]
+}
